@@ -1,0 +1,5 @@
+num=int(input('enter thr value'))
+if num%5==0 and num%10==0:
+  print(num,'is divisible by 5 and 10')
+else:
+  print(num,'is not diviible by 5 and 10')
