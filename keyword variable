@@ -1,0 +1,5 @@
+#**keyword
+def sumnumbers(**numbers):
+   for key, value in numbers.items():
+        print(f"{key}: {value}")
+sumnumbers(name='lohita', age=25, city='newyork')
