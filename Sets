@@ -1,0 +1,18 @@
+#creating set
+num={1,2,3,4,5,6,}
+num
+#set operation
+#add items
+num.add(8)
+num
+#remove
+num.remove(4)
+num
+#union
+a={1,2,3,4,5}
+b={4,5,6,7,8}
+a|b
+#intersection
+a&b
+#difference
+a-b
