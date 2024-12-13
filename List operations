@@ -1,0 +1,23 @@
+#accessing items
+print(a[0])
+print(b[3])
+#modifing items
+a[2]=7
+a
+#adding items
+#append
+a.append(4)
+a
+#insert
+a.insert(9,8)
+a
+#removing items
+#remove
+a.remove(6)
+a
+#pop
+a.pop(3)
+a
+#other operating system
+x=[2,3,7,8,5,0,6]
+len(x)
