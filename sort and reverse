@@ -1,0 +1,5 @@
+num=[1,2,4,6,8]
+num.sort()
+num
+num.reverse()
+num
