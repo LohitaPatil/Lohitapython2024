@@ -1,0 +1,5 @@
+num=[10,20,30,40,50,40,60]
+frequency={}
+for i in num:
+  frequency[i]=frequency.get(i,0)+1
+print(frequency)
