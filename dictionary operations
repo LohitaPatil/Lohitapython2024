@@ -1,0 +1,4 @@
+student={'name':'john','age':45,'marks':86}
+print('name:',student['name'])
+student['marks']=90
+print('marks:',student['marks'])
