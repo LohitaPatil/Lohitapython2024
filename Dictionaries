@@ -1,0 +1,21 @@
+#creating dictionary
+pan={'name':'Alice',
+'age':30,
+     'marks':40
+     }
+pan
+#accessing and modifying
+#accessing
+pan['age']
+#modifying
+pan['name']='bob'
+pan
+#adding
+pan['brand']='lol'
+pan
+#remove
+del pan['age']
+pan
+#iterating through a dictionary
+for key,value in pan.items():
+   print(key,value) 
