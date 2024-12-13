@@ -1,0 +1,5 @@
+#creating tuple
+spam=(10,30,29,50)
+print(spam)
+#accessing items
+spam[2]
