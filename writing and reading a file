@@ -1,0 +1,5 @@
+with open('/content/lohita.txt','w') as file:
+  file.write('Python is awesome')
+
+with open('/content/lohita.txt','r')as file:
+  print(file.read())
