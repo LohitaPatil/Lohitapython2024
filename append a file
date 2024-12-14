@@ -1,0 +1,3 @@
+file=open('/content/lohita.txt','a')
+file.write('Good morning')
+file.close()
