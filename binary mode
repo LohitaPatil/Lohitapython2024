@@ -1,0 +1,2 @@
+with open('/content/download (4).jpeg','rb') as file:
+  data=file.read()
